@@ -1,0 +1,150 @@
+body {
+    padding-left: 50;
+    padding-right: 50;
+    padding-top: 100px;
+    color: #7405fc;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+}
+
+.div {
+    height: 4px;
+    width: 100px;
+    margin: 8px auto;
+    background-color: black;
+}
+
+#para1 {
+    font-size: 30px;
+    font-family: 'Langar', cursive;
+    color: white;
+    background-color: #311B92;
+}
+li a #excellent {
+    width: 340px;
+    height: 468px;
+}
+
+#amazing {
+    width: 349px;
+    height: 469px;
+}
+
+#monster {
+    width: 340px;
+    height: 469px;
+}
+
+#jens {
+    width: 400px;
+    height: 400px;
+}
+
+#sundar {
+    width: 400px;
+    height: 400px;
+}
+
+#name {
+    background-color: #FFC107;
+}
+
+#aboute {
+    text-align: center;
+    background-color: black;
+    height: 5px;
+}
+
+#about {
+    background-color: #311B92;
+}
+
+#nana {
+    text-align: center;
+    height: 5px;
+}
+
+#na {
+    font-family: 'Langar', cursive;
+    color: white;
+    background-color: #311B92;
+}
+
+#character {
+    background-color: crimson;
+    color: darkblue;
+    font-family: 'Langar', cursive;
+}
+
+#nnn {
+    background-color: crimson;
+    color: darkblue;
+    font-family: 'Langar', cursive;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#date {
+    background-color: black;
+    color: white;
+}
+
+#inspiration {
+    background-color: yellow
+}
+img{
+    transition: .2s;
+    border: 10px solid #AAAAAA;
+}
+img:hover{
+    transform: scale(0.9);
+}
+#contact{
+    background-color: purple;
+        background: firebrick;
+}
+
+#contact iframe {
+    width: 100%
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    color: white;
+    text-shadow: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display:block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
